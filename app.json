@@ -1,0 +1,41 @@
+{
+  "expo": {
+    "name": "local_media_storage",
+    "slug": "local_media_storage",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "expo": {
+      "splash": {
+        "image": "./assets/icon/Absolute_Reality_v16_Dune_by_Villeneuve_Chani_in_swim_dress_1.jpg",
+        "backgroundColor": "#000000"
+      }
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/adaptive-icon.png",
+        "backgroundColor": "#ffffff"
+      }
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "plugins": [
+      "expo-router"
+    ],
+    "sdkVersion": "49.0.0"
+  },
+  "name": "local_media_storage"
+}
